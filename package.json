@@ -93,7 +93,7 @@
     "nodemon": "^2.0.21",
     "objection": "^3.0.1",
     "pg": "^8.10.0",
-    "prisma": "^4.11.0",
+    "prisma": "^4.16.2",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.8.0",
     "sequelize": "^6.29.3",
