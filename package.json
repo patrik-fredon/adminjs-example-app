@@ -66,7 +66,7 @@
     "@mikro-orm/core": "^5.6.15",
     "@mikro-orm/migrations": "^5.6.15",
     "@mikro-orm/nestjs": "^5.1.7",
-    "@mikro-orm/postgresql": "^5.6.15",
+    "@mikro-orm/postgresql": "^5.9.8",
     "@nestjs/common": "^9.3.12",
     "@nestjs/core": "^9.3.12",
     "@nestjs/mongoose": "^9.2.2",
