@@ -87,7 +87,7 @@
     "fastify-static": "^4.7.0",
     "i18next": "^22.4.13",
     "knex": "^2.4.2",
-    "koa": "^2.14.2",
+    "koa": "^2.16.0",
     "koa2-formidable": "^1.0.3",
     "mongoose": "^7.0.2",
     "nodemon": "^2.0.21",
